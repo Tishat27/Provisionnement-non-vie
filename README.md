@@ -57,8 +57,5 @@ Les objectifs spécifiques sont :
 
 ## 📁 Fichier principal
 
-📍 `Notebook/Tarification non-vie.ipynb`
+📍`Notebook/provisionnement.pdf`
 
----
-
-Si tu veux, je peux te rédiger **une version courte et percutante pour GitHub**, adaptée au format `README.md` avec badges et sections prêtes à l’emploi pour ton projet. Veux‑tu que je fasse ça ?
